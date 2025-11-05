@@ -1,3 +1,3 @@
-en.ezcloud.uniview.com
-global.ezcloud.uniview.com
-global.ezcloud.uniview.com.cdn.dnsv1.com
+en.ezcloud.uniview.com/
+global.ezcloud.uniview.com/
+global.ezcloud.uniview.com.cdn.dnsv1.com/
